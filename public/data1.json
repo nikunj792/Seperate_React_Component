@@ -1,0 +1,26 @@
+{
+  "0": {
+    "orgName": "IBM",
+    "orgID": "1234",
+    "orgType": "IT",
+    "status": "Active"
+  },
+  "1": {
+    "orgName": "Wipro",
+    "orgID": "6789",
+    "orgType": "BPO",
+    "status": "Active"
+  },
+  "2": {
+    "orgName": "Microsoft",
+    "orgID": "6543",
+    "orgType": "BP",
+    "status": "InActive"
+  },
+  "3": {
+    "orgName": "Sample",
+    "orgID": "0000",
+    "orgType": "BPO",
+    "status": "Active"
+  }
+}

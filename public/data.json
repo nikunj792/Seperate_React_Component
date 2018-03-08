@@ -1,0 +1,25 @@
+{ "Employees":{
+     "Details":[
+        { "name":"Keshab Kumar",
+           "id":"06392",
+           "email":"string",
+           "status":"PERMANENT"
+        },
+        { "name":"Nikunj",
+           "id":"06393",
+           "email":"string",
+           "status":"PERMANENT"
+        },
+        { "name":"Grish",
+           "id":"06394",
+           "email":"string",
+           "status":"PERMANENT"
+        },
+        { "name":"Harpeet",
+           "id":"06392",
+           "email":"string",
+           "status":"PERMANENT"
+        }
+     ]
+  }
+}
